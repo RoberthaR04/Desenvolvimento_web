@@ -1,5 +1,4 @@
-import { markRaw, shallowRef } from 'vue';
-const PaginaHome = markRaw({
+const PaginaSobre = {
     template: `
         <header>
         <h1>Do Zero ao Tio Meio Rico: A Inspiradora Jornada de Milton Barata!</h1>
@@ -25,4 +24,4 @@ const PaginaHome = markRaw({
           alert('click!')
       }
   },
-});
+};

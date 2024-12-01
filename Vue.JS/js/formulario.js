@@ -1,5 +1,4 @@
-import { markRaw, shallowRef } from 'vue';
-const PaginaFormulario = markRaw({
+const PaginaFormulario = {
     template: `
     <!-- Cabeçalho com fundo em degradê -->
     <header>
@@ -85,4 +84,4 @@ const PaginaFormulario = markRaw({
             </div>
         </div>
     </div>`
-})
+}

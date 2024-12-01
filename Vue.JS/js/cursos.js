@@ -1,5 +1,4 @@
-import { markRaw, shallowRef } from 'vue';
-const PaginaCursos = markRaw({
+const PaginaCursos = {
     template: `
         <!-- Cabeçalho com fundo em degradê -->
     <header>
@@ -121,4 +120,4 @@ const PaginaCursos = markRaw({
             </div>
         </div> <!-- Fim da terceira linha -->
     </div> <!-- Fim do container -->`
-})
+}

@@ -1,7 +1,5 @@
-import { markRaw, shallowRef } from 'vue';
-const PaginaContato = markRaw({
-    template:
-        `
+const PaginaContato = {
+    template: `
     <!-- Cabeçalho com fundo em degradê -->
     <header>
         <h1>Contatos dos Responsáveis</h1>
@@ -54,9 +52,9 @@ const PaginaContato = markRaw({
                     <div class="card-body">
                         <h5 class="card-title">Robertha Rezende</h5>
                         <p class="card-text">Diretora de Comunicação</p>
-                        <p><strong>Telefone:</strong> (00) 00000-0000</p>
+                        <p><strong>Telefone:</strong> (31) 98765-4321</p>
                         <p><strong>LinkedIn:</strong> 
-                            <a href="https://www.linkedin.com/in/robertha-de-sousa-rezende-0b15b8215/" target="_blank">Robertha De Sousa Rezende no LinkedIn</a>
+                            <a href="https:" target="_blank">Fernanda Lima no LinkedIn</a>
                         </p>
                     </div>
                 </div>
@@ -86,4 +84,5 @@ const PaginaContato = markRaw({
             // Dados adicionais podem ser adicionados aqui, caso necessário
         };
     },
-});
+};
+
