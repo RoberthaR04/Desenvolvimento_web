@@ -1,6 +1,6 @@
 const PaginaContato = {
     template:
-     `
+        `
     <!-- Cabeçalho com fundo em degradê -->
     <header>
         <h1>Contatos dos Responsáveis</h1>
@@ -24,7 +24,7 @@ const PaginaContato = {
                         <h5 class="card-title">David Bryan</h5>
                         <p class="card-text">Coordenadora de Projetos</p>
                         <p><strong>LinkedIn:</strong> 
-                            <a href="https:" target="_blank">Ana Souza no LinkedIn</a>
+                            <a href="">David no LinkedIn</a>
                         </p>
                     </div>
                 </div>
@@ -38,7 +38,7 @@ const PaginaContato = {
                         <h5 class="card-title">Felipe Fernandes</h5>
                         <p class="card-text">Gerente de Marketing</p>
                         <p><strong>LinkedIn:</strong> 
-                            <a href="https:" target="_blank">Carlos Silva no LinkedIn</a>
+                            <a href="" target="_blank">Felipe no LinkedIn</a>
                         </p>
                     </div>
                 </div>
@@ -50,7 +50,7 @@ const PaginaContato = {
                     <img src="Imagens/Robertha.png" class="card-img-top" alt="Responsável 3">
                     <div class="card-body">
                         <h5 class="card-title">Robertha Rezende</h5>
-                        <p class="card-text">Diretora de Comunicação</p>
+                        <p class="card-text">Estudante</p>
                         <p><strong>LinkedIn:</strong> 
                             <a href="https:" https://www.linkedin.com/in/robertha-de-sousa-rezende-0b15b8215/">Robertha de Sousa Rezende no LinkedIn</a>
                         </p>
@@ -68,7 +68,7 @@ const PaginaContato = {
                         <h5 class="card-title">Victor Araújo</h5>
                         <p class="card-text">Supervisor de TI</p>
                         <p><strong>LinkedIn:</strong> 
-                            <a href="https:" target="_blank">Roberto Alves no LinkedIn</a>
+                            <a href="" target="_blank">Victor no LinkedIn</a>
                         </p>
                     </div>
                 </div>
