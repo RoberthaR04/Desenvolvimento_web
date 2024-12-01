@@ -1,4 +1,5 @@
-const PaginaContato = {
+import { markRaw, shallowRef } from 'vue';
+const PaginaContato = markRaw({
     template:
         `
     <!-- Cabeçalho com fundo em degradê -->
@@ -85,4 +86,4 @@ const PaginaContato = {
             // Dados adicionais podem ser adicionados aqui, caso necessário
         };
     },
-};
+});
