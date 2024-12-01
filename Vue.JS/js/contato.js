@@ -53,9 +53,9 @@ const PaginaContato = {
                     <div class="card-body">
                         <h5 class="card-title">Robertha Rezende</h5>
                         <p class="card-text">Diretora de Comunicação</p>
-                        <p><strong>Telefone:</strong> (31) 98765-4321</p>
+                        <p><strong>Telefone:</strong> (00) 00000-0000</p>
                         <p><strong>LinkedIn:</strong> 
-                            <a href="https:" target="_blank">Fernanda Lima no LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/robertha-de-sousa-rezende-0b15b8215/" target="_blank">Robertha De Sousa Rezende no LinkedIn</a>
                         </p>
                     </div>
                 </div>
