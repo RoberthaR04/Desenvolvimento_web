@@ -1,4 +1,6 @@
-const PaginaHome = {
+import { markRaw } from 'vue';
+
+const PaginaHome = markRaw({
   template: `
       <!-- Botão para inscrição -->
       <div class="container button-section">
@@ -296,7 +298,7 @@ const PaginaHome = {
       touch: true
     });
   }
-};
+});
 
 
 
