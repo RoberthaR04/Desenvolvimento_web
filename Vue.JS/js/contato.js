@@ -1,5 +1,7 @@
 const PaginaContato = {
     template: `
+
+
     <!-- Cabeçalho com fundo em degradê -->
     <header>
         <h1>Contatos dos Responsáveis</h1>
@@ -21,10 +23,12 @@ const PaginaContato = {
                     <img src="Imagens/David.png" class="card-img-top" alt="Responsável 1">
                     <div class="card-body">
                         <h5 class="card-title">David Bryan</h5>
+
                         <p class="card-text">Coordenadora de Projetos</p>
                         <p><strong>Telefone:</strong> (11) 98765-4321</p>
                         <p><strong>LinkedIn:</strong> 
                             <a href="https:" target="_blank">Ana Souza no LinkedIn</a>
+
                         </p>
                     </div>
                 </div>
@@ -34,6 +38,7 @@ const PaginaContato = {
             <div class="col-md-4 mb-4">
                 <div class="card">
                     <img src="Imagens/Felipe.png" class="card-img-top" alt="Responsável 2">
+
                     <div class="card-body">
                         <h5 class="card-title">Felipe Fernandes</h5>
                         <p class="card-text">Gerente de Marketing</p>
@@ -42,6 +47,7 @@ const PaginaContato = {
                             <a href="https:" target="_blank">Carlos Silva no LinkedIn</a>
                         </p>
                     </div>
+
                 </div>
             </div>
 
@@ -55,6 +61,7 @@ const PaginaContato = {
                         <p><strong>Telefone:</strong> (31) 98765-4321</p>
                         <p><strong>LinkedIn:</strong> 
                             <a href="https:" target="_blank">Fernanda Lima no LinkedIn</a>
+
                         </p>
                     </div>
                 </div>
@@ -72,6 +79,7 @@ const PaginaContato = {
                         <p><strong>Telefone:</strong> (41) 91234-6789</p>
                         <p><strong>LinkedIn:</strong> 
                             <a href="https:" target="_blank">Roberto Alves no LinkedIn</a>
+
                         </p>
                     </div>
                 </div>
@@ -81,8 +89,6 @@ const PaginaContato = {
     `,
     data() {
         return {
-            // Dados adicionais podem ser adicionados aqui, caso necessário
         };
     },
 };
-
