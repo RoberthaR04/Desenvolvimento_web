@@ -1,8 +1,6 @@
 const PaginaContato = {
     template: `
-
-
-    <!-- Cabeçalho com fundo em degradê -->
+<!-- Cabeçalho com fundo em degradê -->
     <header>
         <h1>Contatos dos Responsáveis</h1>
     </header>
@@ -26,8 +24,9 @@ const PaginaContato = {
 
                         <p class="card-text">Coordenadora de Projetos</p>
                         <p><strong>Telefone:</strong> (11) 98765-4321</p>
-                        <p><strong>LinkedIn:</strong> 
-                            <a href="https:" target="_blank">Ana Souza no LinkedIn</a>
+                        <p class="link">
+                            <a href="https:" target="_blank"><img src="Imagens/linkedln.png" style="height: 40px; width: 40px;"></a>
+                            <a href="https:" target="_blank"><img src="Imagens/Instagram.png" style="height: 40px; width: 40px;"></a>
 
                         </p>
                     </div>
@@ -38,16 +37,15 @@ const PaginaContato = {
             <div class="col-md-4 mb-4">
                 <div class="card">
                     <img src="Imagens/Felipe.png" class="card-img-top" alt="Responsável 2">
-
-                    <div class="card-body">
-                        <h5 class="card-title">Felipe Fernandes</h5>
-                        <p class="card-text">Gerente de Marketing</p>
-                        <p><strong>Telefone:</strong> (21) 91234-5678</p>
-                        <p><strong>LinkedIn:</strong> 
-                            <a href="https:" target="_blank">Carlos Silva no LinkedIn</a>
-                        </p>
-                    </div>
-
+            <div class="card-body">
+                <h5 class="card-title">Felipe Fernandes</h5>
+                <p class="card-text">Gerente de Marketing</p>
+                <p><strong>Telefone:</strong> (21) 91234-5678</p>
+                <p>
+                    <a href="https://www.linkedin.com/in/felipe-fernandes-722590260/" target="_blank"><img src="Imagens/linkedln.png" style="height: 40px; width: 40px;"></a>
+                    <a href="https://www.instagram.com/felipecrisfer/" target="_blank"><img src="Imagens/Instagram.png" style="height: 40px; width: 40px;"></a>
+                </p>
+                </div>
                 </div>
             </div>
 
@@ -61,7 +59,6 @@ const PaginaContato = {
                         <p><strong>Telefone:</strong> (31) 98765-4321</p>
                         <p><strong>LinkedIn:</strong> 
                             <a href="https:" target="_blank">Fernanda Lima no LinkedIn</a>
-
                         </p>
                     </div>
                 </div>
@@ -77,9 +74,9 @@ const PaginaContato = {
                         <h5 class="card-title">Victor Araújo</h5>
                         <p class="card-text">Supervisor de TI</p>
                         <p><strong>Telefone:</strong> (41) 91234-6789</p>
-                        <p><strong>LinkedIn:</strong> 
-                            <a href="https:" target="_blank">Roberto Alves no LinkedIn</a>
-
+                        <p>
+                        <a href="https://www.linkedin.com/in/victor-araújo-batista-310894246/" target="_blank"><img src="Imagens/linkedln.png" style="height: 40px; width: 40px;"></a>
+                        <a href="https://www.instagram.com/victor.dll/" target="_blank"><img src="Imagens/Instagram.png" style="height: 40px; width: 40px;"></a>
                         </p>
                     </div>
                 </div>
