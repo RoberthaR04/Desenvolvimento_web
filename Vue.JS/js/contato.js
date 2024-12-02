@@ -25,8 +25,8 @@ const PaginaContato = {
                         <p class="card-text">Coordenador de Projetos</p>
                         <p><strong>Telefone:</strong> (11) 98765-4321</p>
                         <p class="link">
-                            <a href="https:" target="_blank"><img src="Imagens/linkedin.png" style="height: 40px; width: 40px;"></a>
-                            <a href="https:" target="_blank"><img src="Imagens/insta.png" style="height: 40px; width: 40px;"></a>
+                            <a href="https:" target="_blank"><img src="Imagens/linkedln.png" style="height: 40px; width: 40px;"></a>
+                            <a href="https:" target="_blank"><img src="Imagens/Instagram.png" style="height: 40px; width: 40px;"></a>
                         </p>
                     </div>
                 </div>
@@ -41,8 +41,8 @@ const PaginaContato = {
                 <p class="card-text">Gerente de Marketing</p>
                 <p><strong>Telefone:</strong> (21) 91234-5678</p>
                 <p>
-                    <a href="https://www.linkedin.com/in/felipe-fernandes-722590260/" target="_blank"><img src="Imagens/linkedin.png" style="height: 40px; width: 40px;"></a>
-                    <a href="https://www.instagram.com/felipecrisfer/" target="_blank"><img src="Imagens/insta.png" style="height: 40px; width: 40px;"></a>
+                    <a href="https://www.linkedin.com/in/felipe-fernandes-722590260/" target="_blank"><img src="Imagens/linkedln.png" style="height: 40px; width: 40px;"></a>
+                    <a href="https://www.instagram.com/felipecrisfer/" target="_blank"><img src="Imagens/Instagram.png" style="height: 40px; width: 40px;"></a>
                 </p>
                 </div>
                 </div>
@@ -57,8 +57,8 @@ const PaginaContato = {
                         <p class="card-text">Diretora de Comunicação</p>
                         <p><strong>Telefone:</strong> (31) 98765-4321</p>
                         <p>
-                        <a href="https:" target="_blank"><img src="Imagens/linkedin.png" style="height: 40px; width: 40px;"></a>
-                        <a href="https:" target="_blank"><img src="Imagens/insta.png" style="height: 40px; width: 40px;"></a>
+                        <a href="https:" target="_blank"><img src="Imagens/linkedln.png" style="height: 40px; width: 40px;"></a>
+                        <a href="https:" target="_blank"><img src="Imagens/Instagram.png" style="height: 40px; width: 40px;"></a>
                         </p>
                     </div>
                 </div>
@@ -75,8 +75,8 @@ const PaginaContato = {
                         <p class="card-text">Supervisor de TI</p>
                         <p><strong>Telefone:</strong> (41) 91234-6789</p>
                         <p>
-                        <a href="https://www.linkedin.com/in/victor-araújo-batista-310894246/" target="_blank"><img src="Imagens/linkedin.png" style="height: 40px; width: 40px;"></a>
-                        <a href="https://www.instagram.com/victor.dll/" target="_blank"><img src="Imagens/insta.png" style="height: 40px; width: 40px;"></a>
+                        <a href="https://www.linkedin.com/in/victor-araújo-batista-310894246/" target="_blank"><img src="Imagens/linkedln.png" style="height: 40px; width: 40px;"></a>
+                        <a href="https://www.instagram.com/victor.dll/" target="_blank"><img src="Imagens/Instagram.png" style="height: 40px; width: 40px;"></a>
                         </p>
                     </div>
                 </div>
