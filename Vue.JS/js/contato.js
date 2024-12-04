@@ -53,8 +53,9 @@ const PaginaContato = {
                     <div class="card-body">
                         <h5 class="card-title">Robertha Rezende</h5>
                         <p class="card-text">Estudante de Engenharia de Software</p>
-                            <a href="https://www.linkedin.com/in/robertha-de-sousa-rezende-0b15b8215/" target="_blank"><img src="Imagens/linkedln.png" style="height: 40px; width: 40px;"></a>
-                        </p>
+                            <a href="https://www.linkedin.com/in/robertha-de-sousa-rezende-0b15b8215/" target="_blank">
+                            <img src="Imagens/linkedln.png" style="height: 40px; width: 40px;">
+                            </a>
                     </div>
                 </div>
             </div>

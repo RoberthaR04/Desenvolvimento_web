@@ -4,7 +4,9 @@ const PaginaHome = {
       <div class="container button-section">
         <h2>Saia agora do Pobre para o Meio Rico!</h2>
         <form>
-          <button type="submit" class="inscricao-btn"><a href="#form">Inscreva-se</button></a>
+          <button type="submit" class="inscricao-btn">
+          <a href="#form">Inscreva-se</a>
+          </button>
         </form>
       </div>
     
